@@ -1,0 +1,2 @@
+# BreastCancerPrediction-Using-DeepNeuralNetwork
+Breast Cancer prediction using Deep Neural Network. I got this dataset from UC Irvine medical website. This data set has 32 columns and 569 rows. This model tells you whether your Breast cancer is Malignant or Benign. I have used Keras to build the DeepNeuralNetwork. The neural network has 3 hidden layers  which has 512 neurons each. I have used BatchNormalization to standardize the attributes. This model predicts with an accuracy of 93%
